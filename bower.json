@@ -1,0 +1,23 @@
+{
+  "name": "purescript-regl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-dom": "^4.5.0",
+    "purescript-foreign-generic": "^4.1.0",
+    "purescript-debug": "^3.0.0",
+    "purescript-affjax": "^4.0.0",
+    "purescript-arraybuffer": "^5.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-image-decoder": "jacereda/purescript-image-decoder#master",
+    "purescript-matrix": "^2.0.0"
+  }
+}
